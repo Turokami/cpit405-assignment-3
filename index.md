@@ -1,3 +1,3 @@
 
 
- [Images page](https://github.com/Turokami/cpit405-assignment-3/Home.htm) 
+ [Images page](https://turokami.github.io/cpit405-assignment-3/Home.htm) 
