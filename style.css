@@ -1,0 +1,42 @@
+#sor{
+	
+	float:right;
+}
+
+div.pic {
+    margin: 5px;
+    border: 1px solid black;
+    float: left;
+    width: 180px;
+}
+
+div.pic:hover {
+    border: 1px solid green;
+}
+
+div.pic img {
+    width: 100%;
+	height:250px;
+    
+}
+
+
+div.fram {
+	padding: 0 6px;
+    float: left;
+	font-family: 'Mali', cursive;
+
+}
+
+div.about {
+	
+	padding: 15px;
+    text-align: center;
+}
+
+.size {
+	 width:600; 
+	 height:250;
+	
+	
+}
